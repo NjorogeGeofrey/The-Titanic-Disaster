@@ -14,7 +14,6 @@ This project aims to predict whether a passenger would have survived the Titanic
 - Usage
 - Results
 - Contributing
-- License
 - Contact Information
 
 ## Project Overview
@@ -67,9 +66,6 @@ The best performing model achieved an accuracy of 100% on the validation set. De
 
 ## Contributing
 Contributions are welcome! Please fork the repository and create a pull request with your changes.
-
-## License
-This project is licensed under the MIT License.
 
 ## Contact Information
 
