@@ -60,8 +60,7 @@ Several machine learning models were trained and evaluated, including:
 The models were evaluated using accuracy, precision, recall, and F1-score. The best model was selected based on its performance on the validation set.
 
 ## Usage
-This project allows users to predict whether a passenger would have survived the Titanic disaster. The best performing model achieved an accuracy of 100% on the validation set. Detailed performance metrics for each model can be found in the notebook.
-
+This project allows users to predict whether a passenger would have survived the Titanic disaster. 
 The best performing model achieved an accuracy of 100% on the validation set. Detailed performance metrics for each model can be found in the notebook.
 
 ## Contributing
